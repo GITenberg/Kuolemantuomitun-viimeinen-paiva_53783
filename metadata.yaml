@@ -1,0 +1,36 @@
+_repo: Kuolemantuomitun-viimeinen-paiva_53783
+_version: 0.0.1
+alternative_title: Le dernier jour d'un condamné. Finnish
+contributor:
+  translator:
+    agent_name: Kivimäki, Urho
+    birthdate: 1889
+    deathdate: 1958
+    gutenberg_agent_id: '32243'
+    url: http://www.gutenberg.org/2009/agents/32243
+creator:
+  author:
+    agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
+description: ''
+gutenberg_issued: '2016-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53783'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- Fiction'
+- !lcsh 'Prisoners -- France -- Fiction'
+- !lcsh 'Capital punishment -- Fiction'
+- GITenberg
+title: Kuolemantuomitun viimeinen päivä
+url: http://www.gutenberg.org/ebooks/53783
